@@ -33,6 +33,9 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+#cabecera img{
+    padding-right: 20px;
+}
 #post{
     padding: 1em;
 }
